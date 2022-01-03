@@ -20,6 +20,13 @@
   <img align="center" alt="putty" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
   <img align="center" alt="filezilla" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg"/>
 </div><br>
+
+##
+
+<div>
+<a href="https://www.linkedin.com/in/adev-victord" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://wa.me/5583996989811" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+</div>
 <!--
 **adev-victord/adev-victord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
