@@ -2,11 +2,13 @@
 <h6 style="font-size:6px;">Desenvolvedor back-end (python ❤️) com um toque de front-end. Graduando em Engenharia de Software, advogado (fora do exercício) especialista em Direito Empresarial e Tributário. Viciado em aprender, praticar, debater ideias e quebrar cabeça buscando soluções. Aficcionado por clean-code, modelagem e arquitetura inteligente.</p>
 
 ##
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adev-victord&show_icons=true&theme=dracula"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adev-victord&layout=compact&theme=dracula"/>
-</div>
+<a href="https://github.com/Bren-Dev">
+  <p align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=adev-victord&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="VictorD" /></p>
+  <p align="center">
+    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=adev-victord&show_icons=true&theme=dracula" />
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adev-victord&layout=compact&theme=dracula" />
+  </p>
+</a>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
