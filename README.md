@@ -2,11 +2,11 @@
 <h6 style="font-size:6px;">Desenvolvedor back-end (python ❤️) com um toque de front-end. Graduando em Engenharia de Software, advogado (fora do exercício) especialista em Direito Empresarial e Tributário. Viciado em aprender, praticar, debater ideias e quebrar cabeça buscando soluções. Aficcionado por clean-code, modelagem e arquitetura inteligente.</p>
 
 ##
-<a href="https://www.linkedin.com/in/adev-victord">
-  <p align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=adev-victord&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="VictorD" /></p>
+<a href="https://www.linkedin.com/in/odantasvictor">
+  <p align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=odantasvictor&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="VictorD" /></p>
   <p align="center">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=adev-victord&show_icons=true&theme=dracula" />
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adev-victord&layout=compact&theme=dracula" />
+    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=odantasvictor&show_icons=true&theme=dracula" />
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odantasvictor&layout=compact&theme=dracula" />
   </p>
 </a>
 <div style="display: inline_block"><br>
@@ -28,6 +28,6 @@
 ##
 
 <div>
-  <a href="https://www.linkedin.com/in/adev-victord" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/odantasvictor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://wa.me/5583996989811" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
