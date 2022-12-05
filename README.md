@@ -3,7 +3,6 @@
 
 ##
 <a href="https://www.linkedin.com/in/odantasvictor">
-  <p align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=odantasvictor&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="VictorD" /></p>
   <p align="center">
     <img height="130em" src="https://github-readme-stats.vercel.app/api?username=odantasvictor&show_icons=true&theme=dracula" />
     <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odantasvictor&layout=compact&theme=dracula" />
